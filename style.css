@@ -186,6 +186,9 @@ hr {
   padding: 0 250px;
   font-family: "Poetsen One", sans-serif;
 }
+.gt {
+  border-radius: 159px;
+}
 @media (max-width: 768px) {
   .cars .car .car-auto {
     flex-direction: column;
